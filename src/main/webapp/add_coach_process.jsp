@@ -37,7 +37,7 @@
 %>
 
 <div class="container text-center">
-		<div class="text-center">이미 가입된 선수번호입니다.</div>
+		<div class="text-center">이미 가입된 코치번호입니다.</div>
 		<a class="btn btn-primary" href="http://localhost:8080/soccer">확인</a>
 		
 	</div>
