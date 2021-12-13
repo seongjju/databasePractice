@@ -21,6 +21,7 @@
 	while(result.next()){
 		String teamNumber=result.getString("teamNumber");
 		
+	
 		Team team = new Team();
 	 	team.setTeamNumber(result.getString("teamNumber"));
 	 	team.setTeamName(result.getString("teamName"));
